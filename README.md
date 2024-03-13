@@ -10,24 +10,24 @@ Features
 * Statistics Display: Admin users can view task overview and user statistics.
 
 Installation
-* 		Clone the repository to your local machine:
-git clone https://github.com/your-username/task-management-system.git
-* 		Navigate to the project directory:
-cd task-management-system
-* 		Install the required dependencies:
-pip install -r requirements.txt
+-Clone the repository to your local machine:
+* 		git clone https://github.com/your-username/task-management-system.git
+-Navigate to the project directory:
+* 		cd task-management-system
+-Install the required dependencies:
+* 		pip install -r requirements.txt
 
 Usage
-* 		Run the program:
+-Run the program:
 python main.py
 
-* 		Follow the prompts to log in, add tasks, edit tasks, generate reports, or view statistics.
+-Follow the prompts to log in, add tasks, edit tasks, generate reports, or view statistics.
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-* 		Fork the repository.
-* 		Create a new branch (git checkout -b feature/new-feature).
-* 		Make your changes.
-* 		Commit your changes (git commit -am 'Add new feature').
-* 		Push to the branch (git push origin feature/new-feature).
-* 		Create a new pull request.
+ - Fork the repository.
+ - Create a new branch (git checkout -b feature/new-feature).
+ - Make your changes.
+ - Commit your changes (git commit -am 'Add new feature').
+ - Push to the branch (git push origin feature/new-feature).
+ - Create a new pull request.
